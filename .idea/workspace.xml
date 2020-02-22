@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1f4df0-7c04-4e15-adbd-93c4d3edfeaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Buchstabencounter/at/jku/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Buchstabencounter/at/jku/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/at/jku/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/jku/Main.java" afterDir="false" />
@@ -27,7 +25,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CC_Basics" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -57,32 +60,84 @@
       <option name="presentableId" value="Default" />
       <updated>1582361574272</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version Zeichen Zählen">
+      <created>1582368862902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582368862902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version Zeichen Zählen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version Zeichen Zählen" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582373346409">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582373346409" />
+    <state x="872" y="295" key="CommitChangelistDialog2" timestamp="1582368862197">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="295" key="CommitChangelistDialog2/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582368862197" />
     <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1582362082589">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="456" key="FileChooserDialogImpl/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582362082589" />
-    <state width="2517" height="718" key="GridCell.Tab.0.bottom" timestamp="1582368468337">
+    <state width="2517" height="493" key="GridCell.Tab.0.bottom" timestamp="1582376376619">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="718" key="GridCell.Tab.0.bottom/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582368468337" />
-    <state width="2517" height="718" key="GridCell.Tab.0.center" timestamp="1582368468337">
+    <state width="2517" height="493" key="GridCell.Tab.0.bottom/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582376376619" />
+    <state width="2517" height="493" key="GridCell.Tab.0.center" timestamp="1582376376618">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="718" key="GridCell.Tab.0.center/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582368468337" />
-    <state width="2517" height="718" key="GridCell.Tab.0.left" timestamp="1582368468337">
+    <state width="2517" height="493" key="GridCell.Tab.0.center/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582376376618" />
+    <state width="2517" height="493" key="GridCell.Tab.0.left" timestamp="1582376376618">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="718" key="GridCell.Tab.0.left/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582368468337" />
-    <state width="2517" height="718" key="GridCell.Tab.0.right" timestamp="1582368468337">
+    <state width="2517" height="493" key="GridCell.Tab.0.left/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582376376618" />
+    <state width="2517" height="493" key="GridCell.Tab.0.right" timestamp="1582376376619">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="718" key="GridCell.Tab.0.right/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582368468337" />
+    <state width="2517" height="493" key="GridCell.Tab.0.right/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582376376619" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1582375518606">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582375518606" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1582375518606">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582375518606" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1582375518606">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582375518606" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1582375518606">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582375518606" />
+    <state x="1095" y="635" key="ReplaceDuplicatesPrompt" timestamp="1582375817578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1095" y="635" key="ReplaceDuplicatesPrompt/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582375817578" />
+    <state x="781" y="343" key="SettingsEditor" timestamp="1582373360415">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="343" key="SettingsEditor/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582373360415" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1582368866271">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582368866271" />
     <state x="1089" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582361932006">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1089" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582361932006" />
+    <state x="1207" y="731" width="540" height="496" key="extract.method.dialog" timestamp="1582375812766">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1207" y="731" width="540" height="496" key="extract.method.dialog/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1582375812766" />
   </component>
 </project>
