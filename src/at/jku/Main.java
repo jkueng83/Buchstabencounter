@@ -36,7 +36,7 @@ public class Main {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Bitte geben Sie den Text ein bei dem Sie die Zeichen zählen wollen:  ");
             System.out.println("Oder starten sie die Zählung mit der Eingabe: 'start'");
-            String scannedString = scanner.nextLine();
+            String scannedString = scannInput(); //scanner.nextLine();
 
             if (scannedString.equalsIgnoreCase("start")){
 
@@ -62,7 +62,7 @@ public class Main {
         }
         System.out.println();
 
-        // Zeichen fählen
+        // Zeichen zählen
         for (int i = 0; i < textString.length(); i++) {
             // Zeichen im Text
             for (int j = 0; j < car.length; j++) {
@@ -114,5 +114,11 @@ public class Main {
         }
 
         System.out.println("" + numberNotDefinesCharFound + " Zeichen sind in der Suche nicht definiert");
+    }
+
+    private static String scannInput (){
+        Scanner scanner = new Scanner(System.in);
+        String string = scanner.nextLine();
+        return string;
     }
 }
